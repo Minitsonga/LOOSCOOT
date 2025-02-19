@@ -1,5 +1,5 @@
 # LOOSCOOT
 
-#### LOOSCOOT is a small shp where you can create an account et purchase a scooter for an ammount of time. 
+#### LOOSCOOT is a small shop where you can create an account et rent a scooter for an amount of time. 
 
-#### This porject has been made in a couple of weeks and is my first java project 
+#### It is a school porject made in a couple of weeks. It's my first java project.
